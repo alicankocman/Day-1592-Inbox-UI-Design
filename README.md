@@ -2,8 +2,8 @@
 
 Today, I worked on designing an Inbox UI using React.
 
-##Project LINK
-https://day-1592-inbox-ui-design.netlify.app/
+**Project LINK**
+**https://day-1592-inbox-ui-design.netlify.app/**
 ## Project Overview
 
 - **Tools:** React, HTML, CSS
