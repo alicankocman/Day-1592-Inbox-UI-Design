@@ -1,0 +1,129 @@
+.main {
+    width: 500px;
+    height: 600px;
+    border-radius: 43px;
+    color: black;
+    background-color: white;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.main img {
+    width: 78px;
+    height: 78px;
+    border-radius: 50%;
+    margin-top: 0px;
+    position: relative;
+    right: 90px;
+}
+
+.Container {
+    /* Container genel stilleri */
+}
+
+.content {
+    display: flex;
+    align-items: center;
+}
+
+.children {
+    font-family: "Poppins", sans-serif;
+    font-weight:700;
+    color: black;
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.additional-text {
+    margin-left: 10px;
+    color: #1F2554;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.compose {
+    width: 428px;
+    height: 80px;
+    background-color: #1f2554;
+    border-radius: 10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    display: flex; /* İçeriğin dikeyde ortalanması için */
+    align-items: center; /* İçeriğin dikeyde ortalanması için */
+    justify-content: center;
+    color: white;
+}
+
+.container {
+    margin-top: 20px; /* İstediğiniz boşluğa göre ayarlayabilirsiniz */
+}
+
+.title {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    color: black;
+    font-size: 24px;
+    position: relative;
+    right: 120px;
+    bottom: 10px;
+}
+
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.text{
+    position: relative;
+    right: 80px;
+    top: 20px;
+}
+
+.additional-text{
+    position: relative;
+    left: 160px;    
+}
+
+.pencil-icon {
+    width: 20px; /* Kalemin boyutunu isteğe göre ayarlayabilirsiniz */
+    margin-left: 10px; /* Kalemin yazıdan boşluk bırakmasını sağlar */
+}
+
+.compose img{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    position: relative;
+    left: 2px;
+    bottom:20px;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #3FDEA5; /* veya istediğiniz başka bir renk */
+    position: relative; /* Resmin üzerine yerleştirilmesini sağlar */
+   top: 70px;
+   right: 40px;
+   z-index: 1;
+}
