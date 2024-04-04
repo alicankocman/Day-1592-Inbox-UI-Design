@@ -1,8 +1,30 @@
-# React + Vite
+# Day 1592: Inbox UI Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Today, I worked on designing an Inbox UI using React.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Tools:** React, HTML, CSS
+- **Features:** 
+  - Inbox interface with messages
+  - Message cards with sender, subject, and date
+  - Compose message button
+- **Challenges:**
+  - Implementing the message card layout
+  - Styling the compose message button
+- **Learnings:**
+  - How to structure an Inbox UI using React components
+  - Styling components with CSS
+- **Future Enhancements:**
+  - Adding functionality to delete or archive messages
+  - Implementing search functionality
+
+## Screenshots
+
+![Ekran görüntüsü 2024-04-04 033113](https://github.com/alicankocman/Day-1592-Inbox-UI-Design/assets/88544926/33eee710-818a-4e99-9ac8-07b2816ecb28)
+
+
+## Conclusion
+
+Overall, designing this Inbox UI was a valuable learning experience. I gained a deeper understanding of React components and styling with CSS.
+
